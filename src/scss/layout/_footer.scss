@@ -1,0 +1,31 @@
+
+.footer {
+    padding: 1.5rem 0;
+    background-color: $grisOscuro;
+    margin-bottom: 0;
+
+    .contenedor-footer {
+        padding-top: 2.5rem;
+    }
+
+    .copyright {
+        color: $blanco;
+        display: inline-block;
+        margin-right: 3rem;
+
+        &:last-of-type {
+            margin-right: 0;
+        }
+    }
+}
+
+.centrar-p {
+    text-align: center;
+    margin-top: 1rem;
+}
+
+.dev {
+    font-size: .8rem;
+    text-transform: uppercase;
+}
+
