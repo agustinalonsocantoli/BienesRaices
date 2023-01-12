@@ -1,16 +1,14 @@
 
-<h1 align="center">Hola Amigos 👋</h1>
-<h2 align="center">Soy Agustin Alonso Cantoli</h2>
+<h1 align="center">Hola Amigos, Soy Agustin Alonso Cantoli 👋</h1>
 <h3 align="center">Full Stack Developer</h3>
 
 <h4 align="center">🔭 Les presento "Web BienesRaices"</h4>
 
 ## Descripcion 📖
 
-_Se Desarrollaron dos aplicaciones utilizando HTML, CSS, Angular y TypeScript
+Se Desarrollaron dos aplicaciones utilizando HTML, CSS, Angular y TypeScript
 La App Convertidor de Unidades tiene su propia base de datos en MongoDB para guardar su informacion y backend utilizando Node.js
 La App Selector de Colores guarda su informacion en LocalStorage
-_
 
 ## Capturas del diseño 👨‍💻
 
