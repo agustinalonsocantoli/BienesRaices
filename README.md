@@ -1,40 +1,33 @@
 <h1 align="center">Hola Amigos, Soy Agustin Alonso Cantoli 👋</h1>
+
 <h3 align="center">Full Stack Developer</h3>
 
-<h4 align="center">🔭 Les presento "Web BienesRaices"</h4>
-
+<h4 align="center">🔭 Les presento "BienesRaices"</h4>
 
 ## Descripcion 📖
 
-_Bot de telegram que brinda ayuda para realizar distintas tareas, la idea de este bot es simplificar fucionalidades cotidianas e incorporarlas todas juntas
-en un solo lugar. El mismo cuenta con varios modulos que realizan tareas independientes, estos son:
-
+Realizada en Curso Udemy Desarrollo web como proyecto de HTML, CSS/SASS y JavaScript, en el mismo se desarrollo la maquetacion de una web para la venta de propiedades.
 
 ## Tecnologías 🛠️
-El propósito es que el usuario conozca las principales tecnologías que se necesitaban para desarrollar el proyecto, para que el usuario pudiera entender el
-proyecto con un nuevo tipo de vista, por ejemplo, la información que se podría dar aquí es:
-- React.js - React 18✨, React Router 5
-- Rematch/core - Rematch a Redux Framework
-- Material-ui/core - React components for faster and easier web development universal-authenticator-library - A library for allowing apps to easily use
-different auth providers
-- Lint - ESlint
-- Styles - Material-UI Theme (customizable)
 
+- HTML
+- SASS
+- JAVASCRIPT
 
 ## Contribuyendo
+
 Si desea hacer una contribución, siga los siguientes pasos:
 1. Crear Fork del proyecto
-1. Crea el Feature Branch (`git checkout -b feature/ContFeature`)
-1. Commit a los cambios (`git commit -m '<type>: <subject>'`)
-1. Push a la rama de trabajo (`git push origin feature/ContFeature`)
-1. Abra un Pull Request
-
+2. Crea el Feature Branch (`git checkout -b feature/ContFeature`)
+3. Commit a los cambios (`git commit -m '<type>: <subject>'`)
+4. Push a la rama de trabajo (`git push origin feature/ContFeature`)
+5. Abra un Pull Request
 
 ## Expresiones de Gratitud 🎁
+
 * Comenta a otros sobre este proyecto 📢 
 * Da las gracias públicamente 🤓.
 * Ayudanos con cualquier sugerencia en los contactos mencionados 📢
-
 
 ## Autor ✒️
 
